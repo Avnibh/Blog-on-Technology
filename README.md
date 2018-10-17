@@ -1,4 +1,4 @@
-# Blog-on-Technology.
+# Blog
 
 # Developer
 
