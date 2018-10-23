@@ -1,5 +1,8 @@
 # Blog
-Blog written on technology now days is <h3>BEST</h3> or <h3>WORST<h3/>.
+******************************************************************************************************************************
+Blog written on technology now days is BEST or WORST
+
+<img scr="worstorbest.jpg">
 
 # Writer
 Saksham Sharma
